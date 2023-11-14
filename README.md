@@ -1,1 +1,0 @@
-# Genre-analysis-of-book-covers-
